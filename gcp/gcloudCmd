@@ -72,3 +72,9 @@ kubectl delete deployment hello-world-rest-api
 gcloud container clusters delete my-cluster --zone us-central1-c
 
 
+
+
+# book shelf
+https://www.in28minutes.com/gcp-bookshelf
+
+
